@@ -1,0 +1,19 @@
+D:\Saguin-Documents\Instructors Files\Program Source Code\C Sharp\SendApp_Argument\App1\App1\bin\Debug\App1.exe.config
+D:\Saguin-Documents\Instructors Files\Program Source Code\C Sharp\SendApp_Argument\Build\App1.exe.config
+D:\Saguin-Documents\Instructors Files\Program Source Code\C Sharp\SendApp_Argument\Build\App1.exe
+D:\Saguin-Documents\Instructors Files\Program Source Code\C Sharp\SendApp_Argument\Build\App1.pdb
+D:\Saguin-Documents\Instructors Files\Program Source Code\C Sharp\SendApp_Argument\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+D:\Saguin-Documents\Instructors Files\Program Source Code\C Sharp\SendApp_Argument\App1\App1\obj\Debug\App1.Form1.resources
+D:\Saguin-Documents\Instructors Files\Program Source Code\C Sharp\SendApp_Argument\App1\App1\obj\Debug\App1.Properties.Resources.resources
+D:\Saguin-Documents\Instructors Files\Program Source Code\C Sharp\SendApp_Argument\App1\App1\obj\Debug\App1.csproj.GenerateResource.Cache
+D:\Saguin-Documents\Instructors Files\Program Source Code\C Sharp\SendApp_Argument\App1\App1\obj\Debug\App1.exe
+D:\Saguin-Documents\Instructors Files\Program Source Code\C Sharp\SendApp_Argument\App1\App1\obj\Debug\App1.pdb
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\Build\App1.exe.config
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\Build\App1.exe
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\Build\App1.pdb
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\App1\App1\obj\Debug\App1.Form1.resources
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\App1\App1\obj\Debug\App1.Properties.Resources.resources
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\App1\App1\obj\Debug\App1.csproj.GenerateResource.Cache
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\App1\App1\obj\Debug\App1.exe
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\App1\App1\obj\Debug\App1.pdb

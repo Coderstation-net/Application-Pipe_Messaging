@@ -1,0 +1,19 @@
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Build\Server.exe.config
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Build\Server.exe
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Build\Server.pdb
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\Server\obj\Debug\App2.Form1.resources
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\Server\obj\Debug\Server.Properties.Resources.resources
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\Server\obj\Debug\Server.exe
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\Server\obj\Debug\Server.pdb
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\Build\Server.exe.config
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\Build\Server.exe
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\Build\Server.pdb
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\SendApp_Argument\Build\Server.exe.config
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\SendApp_Argument\Build\Server.exe
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\SendApp_Argument\Build\Server.pdb
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\SendApp_Argument\Server\obj\Debug\App2.Form1.resources
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\SendApp_Argument\Server\obj\Debug\Server.Properties.Resources.resources
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\SendApp_Argument\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\SendApp_Argument\Server\obj\Debug\Server.exe
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\SendApp_Argument\Server\obj\Debug\Server.pdb

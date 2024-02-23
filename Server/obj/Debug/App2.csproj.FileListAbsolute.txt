@@ -1,0 +1,20 @@
+D:\Saguin-Documents\Instructors Files\Program Source Code\C Sharp\SendApp_Argument\App2\App2\bin\Debug\App2.exe.config
+D:\Saguin-Documents\Instructors Files\Program Source Code\C Sharp\SendApp_Argument\App2\App2\obj\Debug\App2.Form1.resources
+D:\Saguin-Documents\Instructors Files\Program Source Code\C Sharp\SendApp_Argument\App2\App2\obj\Debug\App2.Properties.Resources.resources
+D:\Saguin-Documents\Instructors Files\Program Source Code\C Sharp\SendApp_Argument\App2\App2\obj\Debug\App2.csproj.GenerateResource.Cache
+D:\Saguin-Documents\Instructors Files\Program Source Code\C Sharp\SendApp_Argument\App2\App2\bin\Debug\App2.exe
+D:\Saguin-Documents\Instructors Files\Program Source Code\C Sharp\SendApp_Argument\App2\App2\bin\Debug\App2.pdb
+D:\Saguin-Documents\Instructors Files\Program Source Code\C Sharp\SendApp_Argument\App2\App2\obj\Debug\App2.exe
+D:\Saguin-Documents\Instructors Files\Program Source Code\C Sharp\SendApp_Argument\App2\App2\obj\Debug\App2.pdb
+D:\Saguin-Documents\Instructors Files\Program Source Code\C Sharp\SendApp_Argument\Build\App2.exe.config
+D:\Saguin-Documents\Instructors Files\Program Source Code\C Sharp\SendApp_Argument\Build\App2.exe
+D:\Saguin-Documents\Instructors Files\Program Source Code\C Sharp\SendApp_Argument\Build\App2.pdb
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\Build\App2.exe.config
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\Build\App2.exe
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\Build\App2.pdb
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\App2\App2\obj\Debug\App2.csprojResolveAssemblyReference.cache
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\App2\App2\obj\Debug\App2.Form1.resources
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\App2\App2\obj\Debug\App2.Properties.Resources.resources
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\App2\App2\obj\Debug\App2.csproj.GenerateResource.Cache
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\App2\App2\obj\Debug\App2.exe
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\App2\App2\obj\Debug\App2.pdb

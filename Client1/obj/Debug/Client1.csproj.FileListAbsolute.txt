@@ -1,0 +1,16 @@
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\Build\Client1.exe.config
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\Build\Client1.exe
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\Build\Client1.pdb
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\Client1\obj\Debug\App1.Form1.resources
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\Client1\obj\Debug\Client1.csproj.GenerateResource.Cache
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\Client1\obj\Debug\Client1.exe
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\Client1\obj\Debug\Client1.pdb
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\SendApp_Argument\Client1\obj\Debug\Client1.Properties.Resources.resources
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\SendApp_Argument\Build\Client1.exe.config
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\SendApp_Argument\Build\Client1.exe
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\SendApp_Argument\Build\Client1.pdb
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\SendApp_Argument\Client1\obj\Debug\App1.Form1.resources
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\SendApp_Argument\Client1\obj\Debug\Client1.Properties.Resources.resources
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\SendApp_Argument\Client1\obj\Debug\Client1.csproj.GenerateResource.Cache
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\SendApp_Argument\Client1\obj\Debug\Client1.exe
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\SendApp_Argument\Client1\obj\Debug\Client1.pdb
